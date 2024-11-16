@@ -18,6 +18,10 @@
       "sub_path": "machine/Flashforge Adventurer 3 Series.json"
     },
     {
+      "name": "Flashforge Adventurer 4 Series",
+      "sub_path": "machine/Flashforge Adventurer 4 Series.json"
+    },
+    {
       "name": "Flashforge Guider 3 Ultra",
       "sub_path": "machine/Flashforge Guider 3 Ultra.json"
     },
@@ -170,6 +174,18 @@
     {
       "name": "0.30mm Standard @Flashforge AD3 0.6 Nozzle",
       "sub_path": "process/0.30mm Standard @Flashforge AD3 0.6 Nozzle.json"
+    },
+    {
+      "name": "0.13mm Standard @Flashforge AD4 0.3 Nozzle",
+      "sub_path": "process/0.13mm Standard @Flashforge AD4 0.3 Nozzle.json"
+    },
+    {
+      "name": "0.20mm Standard @Flashforge AD4 0.4 Nozzle",
+      "sub_path": "process/0.20mm Standard @Flashforge AD4 0.4 Nozzle.json"
+    },
+    {
+      "name": "0.30mm Standard @Flashforge AD4 0.6 Nozzle",
+      "sub_path": "process/0.30mm Standard @Flashforge AD4 0.6 Nozzle.json"
     },
     {
       "name": "0.20mm Standard @Flashforge G3U 0.4 Nozzle",
@@ -488,7 +504,7 @@
       "sub_path": "machine/Flashforge Adventurer 5M Pro 0.8 Nozzle.json"
     },
     {
-      "name": "fdm_flashforge_common",
+      "name": "fdm_adventurer3_common",
       "sub_path": "machine/fdm_adventurer3_common.json"
     },
     {
@@ -498,6 +514,22 @@
     {
       "name": "Flashforge Adventurer 3 Series 0.6 Nozzle",
       "sub_path": "machine/Flashforge Adventurer 3 Series 0.6 nozzle.json"
+    },
+    {
+      "name": "fdm_adventurer4_common",
+      "sub_path": "machine/fdm_adventurer4_common.json"
+    },
+    {
+      "name": "Flashforge Adventurer 4 Series 0.3 Nozzle",
+      "sub_path": "machine/Flashforge Adventurer 4 Series 0.3 nozzle.json"
+    },
+    {
+      "name": "Flashforge Adventurer 4 Series 0.4 Nozzle",
+      "sub_path": "machine/Flashforge Adventurer 4 Series 0.4 nozzle.json"
+    },
+    {
+      "name": "Flashforge Adventurer 4 Series 0.6 Nozzle",
+      "sub_path": "machine/Flashforge Adventurer 4 Series 0.6 nozzle.json"
     },
     {
       "name": "fdm_guider3_common",
